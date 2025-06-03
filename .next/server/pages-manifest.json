@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+<<<<<<< HEAD
+  "/emotion": "pages/emotion.js",
+  "/home": "pages/home.js",
+  "/": "pages/index.js"
+=======
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/api/auth/login": "pages/api/auth/login.js",
+  "/api/auth/verify-otp": "pages/api/auth/verify-otp.js",
+  "/home": "pages/home.js",
+  "/api/emotions/save": "pages/api/emotions/save.js",
+  "/emotion": "pages/emotion.js"
+>>>>>>> 62fa5072d3a427beebc99d520f0985129433f2e1
+}
